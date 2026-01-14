@@ -32,11 +32,11 @@ export default function MessageScreen({ onNext }) {
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
                         Happy Birthday, Ray 🎂💖✨.
                         Many many happy returns of the day, baby.
-                        Thank you for being the magic in my life, I am so so grateful to God that I have you in my life as a partner, as a best friend.
+                        Thank you for being such a beautiful blessing in my life. I am very lucky to have you not just as my partner, but also as my best friend.
                         I wish you succeed all your dreams in your life and I’ll always be by your side, supporting your dreams and growing right along with you 🤍.
                         You’re truly one of a kind, a rare gem that i found. I love you more than any words can say.
-                        Stay amazing , stay you and never forget how special you are ✨
-                        and yes there's "No Other Place" I wanna be ❤️
+                        Stay amazing , stay you and never forget how special you are ✨.
+                        I Love You ❤️
                     </p>
                 </motion.div>
             </div>
